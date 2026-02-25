@@ -18,7 +18,7 @@ export default function Home() {
       </h1>
 
       <img 
-        src="https://i.imgur.com/placeholder.jpg"
+        src= src="/cover.png"
         alt="Lul Neto Cover"
         style={{
           width: "100%",
