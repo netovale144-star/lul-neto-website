@@ -17,7 +17,6 @@ export default function Home() {
         Lul Neto
       </h1>
 
-      <img 
         <img
   src="/DSC02803.jpeg"
         alt="Lul Neto Cover"
