@@ -18,7 +18,8 @@ export default function Home() {
       </h1>
 
       <img 
-        src= src="/cover.png"
+        <img
+  src="/DSC02803.jpeg"
         alt="Lul Neto Cover"
         style={{
           width: "100%",
